@@ -1,3 +1,16 @@
+### v2.13.12
+
+> 2026-02-08
+
+- Added "Apply World Content Blocklist for Players" and "Apply World Content Blocklist for GMs" Config options (both enabled by default)
+- Added "Medium" size default to "Create* Token" macros
+- Reworked Importer generation of activity IDs to stabilize them between imports, allowing for smaller/more sensible diffs when using the Content Updater
+- (v13) Fixed "Import" failing to appear in temp-imported journal entries (e.g. variant rules found via Quick Insert)
+- Fixed Item Importer setting junk reach values
+- Fixed Equipment Shop behaviour when attempting to remove items
+- Fixed Import Wizard failing to render when opened from a sheet "ADD..." button in some cases
+- (v12) Fixed Creature Importer duplicating spellcasting traits
+
 ### v2.13.11
 
 > 2026-01-23

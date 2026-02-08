@@ -1878,5 +1878,10 @@
 		"ver": "2.13.11",
 		"date": "2026-01-23",
 		"txt": "- (v13) Fixed crash when using cast activities under dnd5e <= 5.2.4\n- Fixed incorrect handling of custom currency conversion tables (notably in the Equipment Shop)\n- Fixed crash when expanding list previews"
+	},
+	{
+		"ver": "2.13.12",
+		"date": "2026-02-08",
+		"txt": "- Added \"Apply World Content Blocklist for Players\" and \"Apply World Content Blocklist for GMs\" Config options (both enabled by default)\n- Added \"Medium\" size default to \"Create* Token\" macros\n- Reworked Importer generation of activity IDs to stabilize them between imports, allowing for smaller/more sensible diffs when using the Content Updater\n- (v13) Fixed \"Import\" failing to appear in temp-imported journal entries (e.g. variant rules found via Quick Insert)\n- Fixed Item Importer setting junk reach values\n- Fixed Equipment Shop behaviour when attempting to remove items\n- Fixed Import Wizard failing to render when opened from a sheet \"ADD...\" button in some cases\n- (v12) Fixed Creature Importer duplicating spellcasting traits"
 	}
 ]
