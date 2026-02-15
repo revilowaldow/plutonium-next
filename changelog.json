@@ -1883,5 +1883,10 @@
 		"ver": "2.13.12",
 		"date": "2026-02-08",
 		"txt": "- Added \"Apply World Content Blocklist for Players\" and \"Apply World Content Blocklist for GMs\" Config options (both enabled by default)\n- Added \"Medium\" size default to \"Create* Token\" macros\n- Reworked Importer generation of activity IDs to stabilize them between imports, allowing for smaller/more sensible diffs when using the Content Updater\n- (v13) Fixed \"Import\" failing to appear in temp-imported journal entries (e.g. variant rules found via Quick Insert)\n- Fixed Item Importer setting junk reach values\n- Fixed Equipment Shop behaviour when attempting to remove items\n- Fixed Import Wizard failing to render when opened from a sheet \"ADD...\" button in some cases\n- (v12) Fixed Creature Importer duplicating spellcasting traits"
+	},
+	{
+		"ver": "2.13.13",
+		"date": "2026-02-15",
+		"txt": "- (v13) Hardened apps against global ID pollution _[thus improving compatibility with the premium \"Tome of Beasts II\" module :^)]_\n- Fixed Import Wizard failing to render when opened from a sheet \"ADD...\" button in some more cases\n- Fixed Background Importer swallowing attached feats and marking the import as \"cancelled\" in some cases"
 	}
 ]

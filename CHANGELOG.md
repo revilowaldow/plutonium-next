@@ -1,3 +1,11 @@
+### v2.13.13
+
+> 2026-02-15
+
+- (v13) Hardened apps against global ID pollution _[thus improving compatibility with the premium "Tome of Beasts II" module :^)]_
+- Fixed Import Wizard failing to render when opened from a sheet "ADD..." button in some more cases
+- Fixed Background Importer swallowing attached feats and marking the import as "cancelled" in some cases
+
 ### v2.13.12
 
 > 2026-02-08
