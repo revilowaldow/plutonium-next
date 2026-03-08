@@ -1,3 +1,12 @@
+### v2.14.2
+
+> 2026-03-08
+
+- Improved Level Up button compatibility with subclasses created via the "DDB-Importer" module
+- Improved Content Updater handling of non-updatable documents
+- Fixed crash when attempting to import an entity via Quick Insert/Spotlight Omnisearch integrations
+- Fixed Adventure/Book Importers generating empty NPC sheets
+
 ### v2.14.1
 
 > 2026-03-02

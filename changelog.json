@@ -1898,5 +1898,10 @@
 		"ver": "2.14.1",
 		"date": "2026-03-02",
 		"txt": "- Fixed crash when opening a \"select one\"-style Importer (Class/Subclass/Species/Background) on an actor sheet"
+	},
+	{
+		"ver": "2.14.2",
+		"date": "2026-03-08",
+		"txt": "- Improved Level Up button compatibility with subclasses created via the \"DDB-Importer\" module\n- Improved Content Updater handling of non-updatable documents\n- Fixed crash when attempting to import an entity via Quick Insert/Spotlight Omnisearch integrations\n- Fixed Adventure/Book Importers generating empty NPC sheets"
 	}
 ]
