@@ -1903,5 +1903,10 @@
 		"ver": "2.14.2",
 		"date": "2026-03-08",
 		"txt": "- Improved Level Up button compatibility with subclasses created via the \"DDB-Importer\" module\n- Improved Content Updater handling of non-updatable documents\n- Fixed crash when attempting to import an entity via Quick Insert/Spotlight Omnisearch integrations\n- Fixed Adventure/Book Importers generating empty NPC sheets"
+	},
+	{
+		"ver": "2.14.3",
+		"date": "2026-03-16",
+		"txt": "- Dropped support for Foundry v12\n- Namespaced majority of remaining Plutonium-specific CSS classes, to avoid potential conflicts with other modules\n- Fixed various minor styling issues\n- Fixed Token HP Roller crash when interacting with an actor-less token\n- Fixed filter crash when opening directory tools (e.g. Directory Cleaner; Directory Deduplicator)\n- _[(v14) Updated for compatibility with v14 User Testing 1 (Patron-only, until Foundry v14 stable is released)]_\n- _[(v14) Fixed \"Scene Transition Animation Type\" Config reset loop on page load]_"
 	}
 ]

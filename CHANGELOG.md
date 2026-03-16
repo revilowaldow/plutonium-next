@@ -1,3 +1,15 @@
+### v2.14.3
+
+> 2026-03-16
+
+- Dropped support for Foundry v12
+- Namespaced majority of remaining Plutonium-specific CSS classes, to avoid potential conflicts with other modules
+- Fixed various minor styling issues
+- Fixed Token HP Roller crash when interacting with an actor-less token
+- Fixed filter crash when opening directory tools (e.g. Directory Cleaner; Directory Deduplicator)
+- _[(v14) Updated for compatibility with v14 User Testing 1 (Patron-only, until Foundry v14 stable is released)]_
+- _[(v14) Fixed "Scene Transition Animation Type" Config reset loop on page load]_
+
 ### v2.14.2
 
 > 2026-03-08
