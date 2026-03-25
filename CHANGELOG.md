@@ -1,3 +1,10 @@
+### v2.14.4
+
+> 2026-03-25
+
+- _[(v14) Updated for compatibility with v14 User Testing 2 (Patron-only, until Foundry v14 stable is released)]_
+- _[(v14) Re-enabled root scene controls "Art Browser" button]_
+
 ### v2.14.3
 
 > 2026-03-16
