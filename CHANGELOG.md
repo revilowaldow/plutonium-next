@@ -1,3 +1,20 @@
+## v2.15.0 — "On the Level" edition
+
+> 2026-04-02
+
+- Added support for Foundry v14. _[Note that the "current" manifest URL now points to the v14 version. See <https://github.com/TheGiddyLimit/plutonium-next/releases> for v14/v13 version-specific manifest URLs.]_
+- Added support for dnd5e 5.3.x, and dropped support for dnd5e 5.1.x/5.2.x
+  - Revised Importer handling of senses
+  - Revised Importer handling of advancements
+  - Revised Spell Importer handling of spell class sources
+  - Revised use of currency
+  - Added support for setting "Gear" to Creature Importer
+- Fixed Creature Importer using incorrect activation type for Gibbering Mouther traits
+- Added speculative fix for invalid spell UUID crash
+- Fixed "Hide Update Notifications" setting failing to have any effect
+- (v14) Expanded "Fast Animations" UI config to cover more elements
+- (v14) Fixed crash when dropping image from Art Browser
+
 ### v2.14.4
 
 > 2026-03-25
