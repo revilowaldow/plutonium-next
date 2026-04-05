@@ -1,3 +1,11 @@
+### v2.15.1
+
+> 2026-04-05
+
+- Fixed Class Importer failing to adjust max HP on level up
+- Fixed Bulk Prototype Token Editor "Bar Attribute ..." dropdowns failing to populate
+- Added on-load migration to (hopefully) fix broken item advancement `sourceId`s
+
 ## v2.15.0 — "On the Level" edition
 
 > 2026-04-02
