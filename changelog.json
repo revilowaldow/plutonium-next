@@ -1924,5 +1924,10 @@
 		"ver": "2.15.1",
 		"date": "2026-04-05",
 		"txt": "- Fixed Class Importer failing to adjust max HP on level up\n- Fixed Bulk Prototype Token Editor \"Bar Attribute ...\" dropdowns failing to populate\n- Added on-load migration to (hopefully) fix broken item advancement `sourceId`s"
+	},
+	{
+		"ver": "2.15.2",
+		"date": "2026-04-15",
+		"txt": "- Fixed crash when attempting to use a Plutonium menu item from a Tidy5e sheet\n- Fixed mangled prompt message when drag-dropping a Plutonium-imported document to an actor sheet\n- (Brew) Fixed Creature Importer crash when attempting to import a creature with non-standard lair action formatting"
 	}
 ]
