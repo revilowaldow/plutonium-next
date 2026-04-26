@@ -1929,5 +1929,10 @@
 		"ver": "2.15.2",
 		"date": "2026-04-15",
 		"txt": "- Fixed crash when attempting to use a Plutonium menu item from a Tidy5e sheet\n- Fixed mangled prompt message when drag-dropping a Plutonium-imported document to an actor sheet\n- (Brew) Fixed Creature Importer crash when attempting to import a creature with non-standard lair action formatting"
+	},
+	{
+		"ver": "2.15.3",
+		"date": "2026-04-26",
+		"txt": "- Fixed Creature Importer crash when attempting to import a creature with a feature containing no text\n- Fixed Plutonium menu items failing to appear in Tidy5e \"classic\" sheets"
 	}
 ]

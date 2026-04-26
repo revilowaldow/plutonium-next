@@ -1,3 +1,10 @@
+### v2.15.3
+
+> 2026-04-26
+
+- Fixed Creature Importer crash when attempting to import a creature with a feature containing no text
+- Fixed Plutonium menu items failing to appear in Tidy5e "classic" sheets
+
 ### v2.15.2
 
 > 2026-04-15
