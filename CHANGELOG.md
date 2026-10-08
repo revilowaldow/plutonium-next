@@ -1,3 +1,9 @@
+### v2.19.6
+
+> 2026-10-08
+
+- Fixed Class Importer over-filtering features in some cases
+
 ### v2.19.5
 
 > 2026-09-23
