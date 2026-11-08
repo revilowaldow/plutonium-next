@@ -2087,5 +2087,10 @@
 		"ver": "2.20.2",
 		"date": "2026-11-06",
 		"txt": "- Added Adventure/Book Importer support for linking to named list items, via nearest header\n- Updated custom ESC handling to match new Foundry standard"
+	},
+	{
+		"ver": "2.20.3",
+		"date": "2026-11-08",
+		"txt": "- Added _D&D: World of Warcraft_ and _World of Warcraft: Icecrown Citadel_ grid data (thanks @ Lyra)\n- Fixed Vehicle Importer failing to set travel pace (resulting in multiplied/very large \"speed\" values being incorrectly shown)\n- Fixed Vehicle Importer setting incorrect action thresholds\n- Fixed Item Importer failing to assign stack-split items to target container"
 	}
 ]

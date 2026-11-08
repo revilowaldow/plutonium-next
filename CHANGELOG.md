@@ -1,3 +1,12 @@
+### v2.20.3
+
+> 2026-11-08
+
+- Added _D&D: World of Warcraft_ and _World of Warcraft: Icecrown Citadel_ grid data (thanks @ Lyra)
+- Fixed Vehicle Importer failing to set travel pace (resulting in multiplied/very large "speed" values being incorrectly shown)
+- Fixed Vehicle Importer setting incorrect action thresholds
+- Fixed Item Importer failing to assign stack-split items to target container
+
 ### v2.20.2
 
 > 2026-11-06
